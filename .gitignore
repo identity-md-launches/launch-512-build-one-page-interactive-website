@@ -1,0 +1,7 @@
+# Dependencies and caches are never committed; dist/ is committed on purpose.
+node_modules/
+.vite/
+npm-debug.log*
+*.tgz
+.DS_Store
+test/scratch/
